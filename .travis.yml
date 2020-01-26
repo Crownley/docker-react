@@ -1,7 +1,4 @@
-cache:
-    npm: false
-
-language: node_js
+language: generic
 sudo: required
 services: 
     - docker
